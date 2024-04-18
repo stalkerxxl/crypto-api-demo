@@ -1,0 +1,7 @@
+/.idea/
+/app/.env
+/logs/
+__pycache__/
+test_main.http
+.vscode/
+/.venv/
